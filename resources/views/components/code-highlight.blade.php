@@ -1,0 +1,1 @@
+<code {{ $attributes->twMerge('bg-slate-400 rounded-[6px] text-white text-sm px-[0.4rem] py-[0.2rem]') }}>{{ $slot }}</code>

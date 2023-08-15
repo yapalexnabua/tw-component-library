@@ -1,0 +1,1 @@
+<button {{ $attributes->twMerge(config('tw-component-library.global_styles.button')) }}>{{ $slot }}</button>

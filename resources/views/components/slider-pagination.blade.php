@@ -1,0 +1,1 @@
+<div {{ $attributes->twMerge('swiper-pagination pt-4 lg:pt-0 flex items-center')->merge(['style' => 'width: fit-content;']) }}></div>

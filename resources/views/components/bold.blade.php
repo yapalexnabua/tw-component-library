@@ -1,0 +1,1 @@
+<span {{ $attributes->twMerge('font-bold') }}>{{ $slot }}</span>

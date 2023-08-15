@@ -1,0 +1,1 @@
+<a {{ $attributes->twMerge('text-xl font-bold block') }}>{{ $slot }}</a>

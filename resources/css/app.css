@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+    font-family: 'Roboto', sans-serif;
+}
+
+@layer components {
+    .disabled {
+      @apply text-[rgba(0,0,0,.3)] pointer-events-none;
+    }
+}

@@ -1,0 +1,1 @@
+<img {{ $attributes->twMerge('object-cover object-center w-full aspect-square')->merge(['src' => 'https://placehold.co/600x400']) }} />
